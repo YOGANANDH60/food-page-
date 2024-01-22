@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+.header{
+    background-color: black;
+    color: royalblue;
+}
+li{
+    display: inline;
+    cursor: pointer;
+}
+h1,ul{
+    text-align: center;
+}
+
+a:hover{
+    color: blue;
+}
+.product{
+
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    margin: 20px;
+    border-width: 2px;
+    border-color: royalblue;
+    border-style: solid;
+    color: white;
+}
+
+.box:hover{
+    background-color: brown;
+    color: white;
+}
+
+button:hover{
+    background-color: red;
+}
+
+.contact{
+    background-color: black;
+    color: royalblue;
+    margin-top: auto;
+    text-align: center;
+}
